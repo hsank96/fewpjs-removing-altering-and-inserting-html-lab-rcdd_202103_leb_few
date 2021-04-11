@@ -7,4 +7,4 @@ let new_header = document.createElement('h1');
 document.body.appendChild(new_header);
 new_header.id = "victory";
 
-new_header.innerHTML = "YOUR NAME is the champion"
+;
